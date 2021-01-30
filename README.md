@@ -14,3 +14,10 @@ The slope of the linear model should not be considered zero because the p-value 
 From our linear regression model, the r-squared value is 0.7149, which means that roughly 71% of all mpg predictions will be correct when using this linear model.
 
 ## Summary Statistics on Suspension Coils
+### Total Summary
+![Mpg Summary Statistics](/images/total_summary.png)
+
+### Lot Summary
+![Mpg Summary Statistics](/images/lot_summary.png)
+
+The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
