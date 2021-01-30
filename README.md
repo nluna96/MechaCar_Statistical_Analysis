@@ -12,3 +12,5 @@ The Intercept, vehicle_length, and ground_clearance are unlikely to provide rand
 The slope of the linear model should not be considered zero because the p-value of our linear regression analysis is 5.35 x 10-11, which is smaller than our assumed significance level of 0.05%. Therefore, we can state that there is sufficent evidence to reject the null hypothesis, which means that the slope of our linear model is not zero. 
 - Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 From our linear regression model, the r-squared value is 0.7149, which means that roughly 71% of all mpg predictions will be correct when using this linear model.
+
+## Summary Statistics on Suspension Coils
