@@ -29,24 +29,33 @@ Lot 1 and 2 have a variance that does not exceed 100 pounds per sqaure inch. Spe
 
 
 ## T-Tests on Suspension Coils
-
 ### T test for all
 ![t test for all](/images/t_test_for_all.png)
+
+Assuming the significance level was the common 0.05 percent, our p-value(1) is above the significance level. Therefore, we do not have sufficent evidence to reject the null hypothesis.
 
 ### T test lot 1
 ![t test lot1](/images/t_test_lot1.png)
 
+Assuming the significance level was the common 0.05 percent, our p-value(1.568 x 10-11) is lower that the significance level. Therefore, we do have sufficent evidence to reject the null hypothesis.
+
 ### T test lot 2
 ![t test lot2](/images/t_test_lot2.png)
+
+Assuming the significance level was the common 0.05 percent, our p-value(0.0006) is lower than the significance level. Therefore, we do have sufficent evidence to reject the null hypothesis.
 
 ### T test lot 3
 ![t test lot3](/images/t_test_lot3.png)
 
+Assuming the significance level was the common 0.05 percent, our p-value(0.16) is above the significance level. Therefore, we do not have sufficent evidence to reject the null hypothesis.
 
 ## Study Design: MechaCar vs Competition
 
 - Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
 In your description, address the following questions:
+
+
+
 - What metric or metrics are you going to test?
 - What is the null hypothesis or alternative hypothesis?
 - What statistical test would you use to test the hypothesis? And why?
