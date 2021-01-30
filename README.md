@@ -53,10 +53,22 @@ Assuming the significance level was the common 0.05 percent, our p-value(0.16) i
 
 - Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
 In your description, address the following questions:
-
-
-
 - What metric or metrics are you going to test?
 - What is the null hypothesis or alternative hypothesis?
 - What statistical test would you use to test the hypothesis? And why?
 - What data is needed to run the statistical test?
+
+To get a better understanding of how the MechaCar performs against competitors the following metrics are needed. 
+- cost
+- highway mpg
+- city mpg
+- horse power
+- quarter mile time
+
+
+H0 : The slope of the linear model is zero, or m = 0
+Ha : The slope of the linear model is not zero, or m ≠ 0
+
+With the above metrics we can beging to compare how the MechaCar performs against competitors. Specifically we want to test the vehicle specs associated to quarter mile time. We would perform a multiple linear regression model to indetify what metrics affect the quarter mile time. This test would help identify if relationships between the dependent variables (cost, highway mpg, city mpg, horse power) and the independent variable (quarter mile time) exist. A Simple random rample would be needed to conduct this test. That way the data is random and we limit the amound of outliers being tested.
+
+
