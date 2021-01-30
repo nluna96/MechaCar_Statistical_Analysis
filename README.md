@@ -3,8 +3,8 @@
 ## Linear Regression to Predict MPG
 ![Mpg Summary Statistics](/images/mpg_linear_regression.png)
 
-H0 : The slope of the linear model is zero, or m = 0
-Ha : The slope of the linear model is not zero, or m ≠ 0
+- H0 : The slope of the linear model is zero, or m = 0
+- Ha : The slope of the linear model is not zero, or m ≠ 0
 
 - Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 The Intercept, vehicle_length, and ground_clearance are unlikely to provide random amounts of variance to the linear model. In other words vehicle length and ground clearance have a significant impact on the mpg.
@@ -65,9 +65,8 @@ To get a better understanding of how the MechaCar performs against competitors t
 - horse power
 - quarter mile time
 
-
-H0 : The slope of the linear model is zero, or m = 0
-Ha : The slope of the linear model is not zero, or m ≠ 0
+- H0 : The slope of the linear model is zero, or m = 0
+- Ha : The slope of the linear model is not zero, or m ≠ 0
 
 With the above metrics we can beging to compare how the MechaCar performs against competitors. Specifically we want to test the vehicle specs associated to quarter mile time. We would perform a multiple linear regression model to indetify what metrics affect the quarter mile time. This test would help identify if relationships between the dependent variables (cost, highway mpg, city mpg, horse power) and the independent variable (quarter mile time) exist. A Simple random rample would be needed to conduct this test. That way the data is random and we limit the amound of outliers being tested.
 
