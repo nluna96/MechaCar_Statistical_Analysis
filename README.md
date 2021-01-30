@@ -28,6 +28,21 @@ For all manufacturing lots in total the variance does not exceed 100 pounds per 
 Lot 1 and 2 have a variance that does not exceed 100 pounds per sqaure inch. Specifically Lot 1 has a variance of 1.0 while lot 2 has a variance of 7.5. Also, Lot 3 does not meet coil variance espectations, their variance is 170.2 which exceeds the 100 pounds variance limit.
 
 
+## T-Tests on Suspension Coils
+
+### T test for all
+![t test for all](/images/t_test_for_all.png)
+
+### T test lot 1
+![t test lot1](/images/t_test_lot1.png)
+
+### T test lot 2
+![t test lot2](/images/t_test_lot2.png)
+
+### T test lot 3
+![t test lot3](/images/t_test_lot3.png)
+
+
 ## Study Design: MechaCar vs Competition
 
 - Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
