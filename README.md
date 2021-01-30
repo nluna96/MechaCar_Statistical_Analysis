@@ -28,4 +28,4 @@ For all manufacturing lots in total the variance does not exceed 100 pounds per 
 Lot 1 and 2 have a variance that does not exceed 100 pounds per sqaure inch. Specifically Lot 1 has a variance of 1.0 while lot 2 has a variance of 7.5. Also, Lot 3 does not meet coil variance espectations, their variance is 170.2 which exceeds the 100 pounds variance limit.
 
 
-
+## Study Design: MechaCar vs Competition
